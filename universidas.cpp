@@ -16,7 +16,7 @@ struct Universidad {
     Facultad facultades[cantidad_facultades];
 };
 
-// Función para solicitar datos de la universidad y sus facultades, uwu, xd
+// Función para solicitar datos de la universidad y sus facultades, uwu, xd,x
 Universidad solicitar_datos() {
     Universidad u;
     cout << "Ingrese el nombre de la universidad: ";
